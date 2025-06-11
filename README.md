@@ -45,4 +45,3 @@ Recommended next steps:
 2. Ensure you have the required libraries installed (pandas, numpy, matplotlib, seaborn)
 3. Run the script to generate insights
 
-Would you like me to elaborate on any specific aspect of the analysis script? I can help you customize it further to match your specific requirements or explain any of the analysis techniques used.
